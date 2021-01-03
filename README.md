@@ -1,5 +1,9 @@
 # datasets
 储存用于数据分析的数据集
+
+## 如何直接在Python、R等直接读取数据
+读取的链接需要使用原始链接，可以在GitHub的csv文件页面内点击「Raw」按钮进入原始链接，此时再复制URL则可以正常读取了
+
 ## titanic-data泰坦尼克幸存者数据集
 「titanic-data」数据集是热门的泰坦尼克号幸存者数据集，用于进行机器学习的练习
 | 变量名 | PassengerId | Survived                 | Pclass                                 | Name     | Sex         | Age         | SibSp                    | Parch                | Ticket   | Fare    | Cabin  | Embarked                                                      |
